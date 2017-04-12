@@ -2,7 +2,7 @@
 
 To begin using this template, choose one of the following options to get started:
 * Download the latest release on Start Bootstrap
-* Clone the repo: `git clone https://github.com/shmeemreza/bootstrap-starter.git`
+* Clone the repo: `git clone https://github.com/shmeemreza/startbootstrap.git`
 * Fork the repo
 
 ## Bugs and Issues
