@@ -5,13 +5,15 @@ To begin using this template, choose one of the following options to get started
 * Clone the repo: `git clone https://github.com/shmeemreza/startbootstrap.git`
 * Fork the repo
 
+## Demo : [Click here](https://shameemreza.github.io/startbootstrap/)
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/shameemreza/startbootstrap/issues) here on GitHub).
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[Shameem Reza](http://shameem.co/).
+Start Bootstrap was created by and is maintained by **[Shameem Reza](http://shameem.co/)**.
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
